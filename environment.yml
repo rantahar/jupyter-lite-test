@@ -1,0 +1,7 @@
+name: jupyterlite-tutorial-demo
+channels:
+- https://repo.mamba.pm/conda-forge
+- https://repo.mamba.pm/emscripten-forge
+dependencies:
+- ipywidgets=8
+- folium
