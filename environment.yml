@@ -5,6 +5,3 @@ channels:
 dependencies:
 - ipywidgets=8
 - folium
-- pip
-- pip:
-  - niimpy
