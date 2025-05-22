@@ -7,4 +7,4 @@ dependencies:
 - folium
 - pip
 - pip:
-  niimpy
+  - niimpy
