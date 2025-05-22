@@ -1,2 +1,3 @@
 jupyterlite-core[lab]
 jupyterlite-pyodide-kernel
+jupyterlite-xeus-python
